@@ -5,7 +5,7 @@
 The purpose of this project is predict if someone is a victim or not by using many different models.
 
 ## Business Statement 
-<img src='intro_image.png' width="800" style="align:middle"/>
+<img src='Images/intro_image.png' width="800" style="align:middle"/>
 
 ### Methods Used
 * Train Test Split
