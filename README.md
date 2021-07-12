@@ -50,8 +50,8 @@ Using a cybercrime dataset for bulding a model. At the start , cleaning the data
 |Name     |  Github Account   | 
 |---------|-------------------|
 | Abdullah Albutih|(https://github.com/)|
-| Abdulrahman Aljubaylan|(https://github.com/)|
-| Ahmed Altowairqi|[@AhmadBasha](https://github.com/AhmadBasha)|
+| Abdulrahman Aljubaylan|[abdulrahman0111](https://github.com/abdulrahman0111)|
+| Ahmed Altowairqi|[AhmadBasha](https://github.com/AhmadBasha)|
 | Mohammed Albesher|(https://github.com/)|
-| Raghad Almeataz|(https://github.com/)|
+| Raghad Almeataz|[Raghad-Almeataz](https://github.com/Raghad-Almeataz)|
 
