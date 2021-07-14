@@ -24,6 +24,7 @@ The purpose of this project is predict if someone is a victim or not by using ma
 
 ### Technologies
 * jupyter
+* Tableau
 * Pandas
 * Numpy 
 * Matplotlib
